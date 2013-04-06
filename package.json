@@ -1,0 +1,11 @@
+{
+  "name": "botnob",
+  "version": "0.0.2",
+  "description": "Blocking To Non-Blocking Operations",
+  "main": "botnob.js",
+  "author": "Samuel Burbano Ramos - @samuelb1311",
+  "license": "BSD",
+  "engines": {
+  	"node": ">= 0.10.x"
+  }
+}
